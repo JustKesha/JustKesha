@@ -19,7 +19,7 @@ Passionate about solving real-world problems with code.
 ![My Skills](https://skillicons.dev/icons?i=mongodb,postgresql,mysql,sqlite,twitter,discord,discordjs&perline=4)
 
 ### Tools & Platforms
-![My Skills](https://skillicons.dev/icons?i=git,github,figma,photoshop&perline=4)
+![My Skills](https://skillicons.dev/icons?i=git,github,figma,codepen&perline=4)
 
 ## 🚀 What I've Built
 
