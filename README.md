@@ -10,7 +10,7 @@ Passionate about solving real-world problems with code.
 ## 🛠️ My Technical Stack
 
 ### Languages
-![My Skills](https://skillicons.dev/icons?i=python,js,nodejs,lua&perline=4)
+![My Skills](https://skillicons.dev/icons?i=python,js,nodejs,html,css,lua&perline=4)
 
 ### Game Development
 ![My Skills](https://skillicons.dev/icons?i=unity,godot&perline=4)
