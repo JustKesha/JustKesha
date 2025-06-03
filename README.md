@@ -10,10 +10,10 @@ Passionate about solving real-world problems with code.
 ## 🛠️ My Technical Stack
 
 ### Languages
-![My Skills](https://skillicons.dev/icons?i=python,js,nodejs,html,css,lua&perline=4)
+![My Skills](https://skillicons.dev/icons?i=python,js,ts,nodejs,html,css&perline=4)
 
 ### Game Development
-![My Skills](https://skillicons.dev/icons?i=unity,godot&perline=4)
+![My Skills](https://skillicons.dev/icons?i=unity,godot,lua,cs&perline=4)
 
 ### Databases & APIs
 ![My Skills](https://skillicons.dev/icons?i=mongodb,postgresql,mysql,sqlite,twitter,discord,discordjs&perline=4)
