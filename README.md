@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/telegram-@MangoAvocadoSalad-%ffffff?color=229ED9&style=flat-square)](https://t.me/MangoAvocadoSalad)
 [![](https://img.shields.io/badge/email-sazonovilya03@mail.ru-%ffffff?color=d14836&style=flat-square)](mailto:sazonovilya03@mail.ru)
 
-I've been coding for 7 years since 2018 and throughout that time built things ranging from bots and website to desktop apps and 3D games.
+I've been coding for 7 years since 2018 and throughout that time built things ranging from bots and websites to desktop apps and 3D games.
 
 📌 Based in Russia<br>
 🌍 English B2-C1<br>
