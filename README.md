@@ -13,7 +13,7 @@ I've been coding for 7 years since 2018 and throughout that time built things ra
 
 ## 🛠️ My Technical Stack
 
-![My Skills](https://skillicons.dev/icons?i=python,js,,git,mongodb,postgresql,unity,godot,,vscode,github,figma,,nodejs,html,css,,mysql,sqlite,twitter,discord,discordjs,,codepen&perline=12)
+![My Skills](https://skillicons.dev/icons?i=python,git,js,html,css,mysql,nodejs,discordjs,godot&perline=10)
 
 ## 🚀 What I've Built
 
