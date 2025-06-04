@@ -7,7 +7,7 @@
 I've been coding for 7 years since 2018 and throughout that time built things ranging from bots and websites to desktop apps and 3D games.
 
 📌 Based in Russia<br>
-🌍 English B2-C1<br>
+🌍 English C1<br>
 🌱 Exploring advanced Python and it's ecosystem<br>
 🎓 Finishing my university degree<br>
 
