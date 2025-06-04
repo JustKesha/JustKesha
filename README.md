@@ -1,48 +1,33 @@
-# Hi there 👋 I'm Ilya
+# Hello 👋 Name's Ilya
 
-With **7 years of coding experience** since 2018, I've built many projects from bots, tools, and websites to desktop apps and 3D games.<br>
-Passionate about solving real-world problems with code.
+[![](https://img.shields.io/badge/discord-@kesha__2293-%ffffff?color=5865F2&style=flat-square)](https://discordapp.com/users/496350041183617028)
+[![](https://img.shields.io/badge/telegram-@MangoAvocadoSalad-%ffffff?color=229ED9&style=flat-square)](https://t.me/MangoAvocadoSalad)
+[![](https://img.shields.io/badge/email-sazonovilya03@mail.ru-%ffffff?color=d14836&style=flat-square)](mailto:sazonovilya03@mail.ru)
+
+I've been coding for 7 years since 2018 and throughout that time built things ranging from bots and website to desktop apps and 3D games.
 
 📌 Based in Russia<br>
 🌍 English B2-C1<br>
+🌱 Exploring advanced Python and it's ecosystem<br>
 🎓 Finishing my university degree<br>
 
 ## 🛠️ My Technical Stack
 
-### Languages
-![My Skills](https://skillicons.dev/icons?i=python,js,ts,nodejs,html,css&perline=4)
-
-### Game Development
-![My Skills](https://skillicons.dev/icons?i=unity,godot,lua,cs&perline=4)
-
-### Databases & APIs
-![My Skills](https://skillicons.dev/icons?i=mongodb,postgresql,mysql,sqlite,twitter,discord,discordjs&perline=4)
-
-### Tools & Platforms
-![My Skills](https://skillicons.dev/icons?i=git,github,figma,codepen&perline=4)
+![My Skills](https://skillicons.dev/icons?i=python,js,,git,mongodb,postgresql,unity,godot,,vscode,github,figma,,nodejs,html,css,,mysql,sqlite,twitter,discord,discordjs,,codepen&perline=12)
 
 ## 🚀 What I've Built
 
-- **Multi-platform bots** for Telegram, VK & Discord using Python, NodeJS and SQLite
-- **API-powered tools** with Twitter, OpenStreetMap, OpenWeatherMap, Chrome, and VK APIs
-- **Browser extensions** using Chrome API for Opera, Chrome, etc.
-- **Games & algorithm visualizations** in JS/HTML/CSS (like PSO routing)
-- **Unity & Godot games** (2D/3D) with C# and GDScript
-- **Game modifications** for popular titles using Lua
 - **Desktop applications** with modern HTML UI
+- **Multipurpose bots** for Telegram, VK & Discord using Python, NodeJS and SQLite & MySQL
+- **API-powered tools** with popular APIs like Twitter, OpenStreetMap, OpenWeatherMap, Chrome, etc.
+- **Browser extensions** using Chrome API for browsers like Opera, Chrome, etc.
+- **Games & algorithm visualizations** in JS/HTML/CSS (like PSO routing)
+- **Unity & Godot games** (2D & 3D) with C# and GDScript
+- **Game modifications** for popular titles using Lua
 - **Custom libraries**, API wrappers, web-scrapers, and parsers
-
-## 🌱 Currently
-
-- Finishing my university degree
-- Exploring advanced Python and ML
-- Building open-source projects
 
 ## 📫 Let's Connect
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MangoAvocadoSalad)
-[![Telegram](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sazonovilya03@mail.ru)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sazonovilya03@mail.ru)
 
----
-
-⭐ From [JustKesha (Ilya)](https://github.com/JustKesha)
