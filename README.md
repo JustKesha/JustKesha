@@ -3,6 +3,7 @@
 [![](https://img.shields.io/badge/discord-@kesha__2293-%ffffff?color=5865F2&style=flat-square)](https://discordapp.com/users/496350041183617028)
 [![](https://img.shields.io/badge/telegram-@MangoAvocadoSalad-%ffffff?color=229ED9&style=flat-square)](https://t.me/MangoAvocadoSalad)
 [![](https://img.shields.io/badge/email-sazonovilya03@mail.ru-%ffffff?color=d14836&style=flat-square)](mailto:sazonovilya03@mail.ru)
+![](https://img.shields.io/discord/613097786208026741)
 
 I've been coding for 7 years since 2018 and throughout that time built things ranging from bots and websites to desktop apps and 3D games.
 
@@ -28,6 +29,7 @@ I've been coding for 7 years since 2018 and throughout that time built things ra
 
 ## 📫 Let's Connect
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MangoAvocadoSalad)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sazonovilya03@mail.ru)
-
+<a href="https://t.me/MangoAvocadoSalad">
+<img alt="Telegram" height="30px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" /></a>
+<a href="mailto:sazonovilya03@mail.ru">
+<img alt="Email" height="30px" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
