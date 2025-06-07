@@ -20,12 +20,12 @@
 
 - **Desktop applications** with modern HTML UI using Electron
 - **Multipurpose bots** for Telegram, VK & Discord using Python, NodeJS and SQLite & MySQL
-- **API-powered tools** with popular APIs like Twitter, OpenStreetMap, OpenWeatherMap, etc.
+- **API-powered tools** with popular APIs like Twitter, OpenStreetMap, OpenWeatherMap, etc. / [related repo](https://github.com/JustKesha/owm-api-wrapper)
 - **Browser extensions** using Chrome API for browsers like Opera, Chrome, etc.
-- **Games & algorithm visualizations** using JS, HTML & CSS (like [routing by pso](https://justkesha.github.io/routing-by-pso/))
-- **Unity & Godot games** with C# and GDScript (2D & 3D)
-- **Game modifications** for popular titles using Lua
-- **Custom libraries**, API wrappers, web-scrapers, parsers and more
+- **Games & algorithm visualizations** using JS, HTML & CSS / [related repo](https://github.com/JustKesha/routing-by-pso)
+- **Unity & Godot games** with C# and GDScript (2D & 3D) / [related repo](https://github.com/JustKesha/godot-dragndrop-demo)
+- **Game modifications** for popular titles using Lua / [related repo](https://github.com/JustKesha/dst-food-utils)
+- **Custom libraries**, API wrappers, web-scrapers, parsers and more / [related repo](https://github.com/JustKesha/owm-api-wrapper)
 
 ## 📮 Let's Connect
 
