@@ -29,11 +29,11 @@
 
 ## 📮 Let's Connect
 
+<a href="https://discord.gg/mh6ZwSSPcy">
+<img alt="Discord" height="30px" src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" /></a>
+
 <a href="https://t.me/MangoAvocadoSalad">
-<img alt="Telegram" height="30px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" /></a>
+<img alt="Telegram" height="30px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" /></a>
 
 <a href="mailto:sazonovilya03@mail.ru">
-<img alt="Email" height="30px" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-
-<a href="https://discord.gg/mh6ZwSSPcy">
-<img alt="Discord" height="30px" src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" /></a>
+<img alt="Email" height="30px" src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
