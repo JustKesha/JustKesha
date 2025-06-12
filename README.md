@@ -11,10 +11,10 @@
 🎓 Finishing my university degree this week<br>
 📧 Contact me at: <a href="mailto:sazonovilya03@mail.ru">sazonovilya03@mail.ru</a> or in <a href="https://t.me/MangoAvocadoSalad">telegram</a><br>
 
-## 🎓 Stack
+## 🥞 Stack
 
-![My Skills](https://skillicons.dev/icons?i=python,git,js,html,css,mysql,nodejs,discordjs,godot&perline=10)
-<img style="background: transparent;" src="https://github.com/JustKesha/JustKesha/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+<img width="15px" /> <img alt="Skills Stack" src="https://skillicons.dev/icons?i=python,git,js,html,css,mysql,nodejs,discordjs,godot&perline=10" />
+<img alt="Contributions Snake" width="100%" style="background: transparent;" src="https://github.com/JustKesha/JustKesha/blob/output/github-contribution-grid-snake.svg" />
 
 ### ☕ Stuff I've built
 
