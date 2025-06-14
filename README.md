@@ -1,8 +1,9 @@
-# Hello ✌ Name's Ilya
+<h1> Hello ✌ Name's Ilya </h1>
 
-[![](https://img.shields.io/badge/discord-@kesha__2293-%ffffff?color=5865F2&style=flat-square)](https://discord.gg/mh6ZwSSPcy)
-[![](https://img.shields.io/badge/telegram-@MangoAvocadoSalad-%ffffff?color=229ED9&style=flat-square)](https://t.me/MangoAvocadoSalad)
-[![](https://img.shields.io/badge/email-sazonovilya03@mail.ru-%ffffff?color=d14836&style=flat-square)](mailto:sazonovilya03@mail.ru)
+
+<a href="https://discord.gg/mh6ZwSSPcy"><img alt="Discord" src="https://img.shields.io/badge/discord-@kesha__2293-%ffffff?color=5865F2&style=flat-square" /></a>
+<a href="https://t.me/MangoAvocadoSalad"><img alt="Telegram" src="https://img.shields.io/badge/telegram-@MangoAvocadoSalad-%ffffff?color=229ED9&style=flat-square" /></a>
+<a href="mailto:sazonovilya03@mail.ru"><img alt="Email" src="https://img.shields.io/badge/email-sazonovilya03@mail.ru-%ffffff?color=d14836&style=flat-square" /></a>
 
 🍂 Been coding for 7 years<br>
 📌 Based in Russia<br>
@@ -11,7 +12,7 @@
 🎓 Finishing my university degree this week<br>
 📧 Contact me at: <a href="mailto:sazonovilya03@mail.ru">sazonovilya03@mail.ru</a> or in <a href="https://t.me/MangoAvocadoSalad">telegram</a><br>
 
-## 🥞 Stack
+<h2> 🥞 Stack </h2>
 
 <div>
   <img width="15px" />
@@ -23,7 +24,7 @@
 </div>
 <img alt="Contributions Snake" width="100%" style="background: transparent;" src="https://github.com/JustKesha/JustKesha/blob/output/github-contribution-grid-snake.svg" />
 
-### ☕ Stuff I've built
+<h3> ☕ Stuff I've built </h3>
 
 - **Desktop applications** with modern HTML UI using Electron
 - **Browser extensions** using Chrome API for browsers like Opera, Chrome, etc.
@@ -34,7 +35,7 @@
 - **Games & algorithm visualizations** using JS, HTML & CSS / [related repo](https://github.com/JustKesha/js-pso-routing)
 - **Custom libraries**, API wrappers, web-scrapers, parsers and more / [related repo](https://github.com/JustKesha/owm-api-wrapper)
 
-## 📮 Let's Connect
+<h2> 📮 Let's Connect </h2>
 
 <a href="https://discord.gg/mh6ZwSSPcy">
 <img alt="Discord" height="30px" src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" /></a>
