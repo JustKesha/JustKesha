@@ -15,11 +15,11 @@
 <h2> 🥞 Stack </h2>
 
 <div>
-  <img width="15px" />
+  <img width="15px" src="images/smol.png" />
   <img alt="Back" src="https://skillicons.dev/icons?i=python,nodejs,git" />
-  <img width="15px" />
+  <img width="15px" src="images/smol.png" />
   <img alt="Front" src="https://skillicons.dev/icons?i=js,html,css,figma" />
-  <img width="15px" />
+  <img width="15px" src="images/smol.png" />
   <img alt="Game dev" src="https://skillicons.dev/icons?i=cs,lua,godot" />
 </div>
 <img alt="Contributions Snake" width="100%" style="background: transparent;" src="https://github.com/JustKesha/JustKesha/blob/output/github-contribution-grid-snake.svg" />
