@@ -1,9 +1,10 @@
-<h1> Hello ✌ Name's Ilya </h1>
+<h1> Hello, Name's Ilya ✌ </h1>
 
-
-<a href="https://discord.gg/mh6ZwSSPcy"><img alt="Discord" src="https://img.shields.io/badge/discord-@kesha__2293-%ffffff?color=5865F2&style=flat-square" /></a>
-<a href="https://t.me/MangoAvocadoSalad"><img alt="Telegram" src="https://img.shields.io/badge/telegram-@MangoAvocadoSalad-%ffffff?color=229ED9&style=flat-square" /></a>
-<a href="mailto:sazonovilya03@mail.ru"><img alt="Email" src="https://img.shields.io/badge/email-sazonovilya03@mail.ru-%ffffff?color=d14836&style=flat-square" /></a>
+<a href="https://discord.gg/mh6ZwSSPcy"><img alt="Discord" height="24px" src="https://img.shields.io/badge/kesha__2293-5865F2?style=flat&logo=discord&logoColor=white" /></a>
+  <img width=".75px" src="images/smol.png" />
+<a href="https://t.me/MangoAvocadoSalad"><img alt="Telegram" height="24px" src="https://img.shields.io/badge/MangoAvocadoSalad-229ED9?style=flat&logo=telegram&logoColor=white" /></a>
+  <img width=".75px" src="images/smol.png" />
+<a href="mailto:sazonovilya03@mail.ru"><img alt="Email" height="24px" src="https://img.shields.io/badge/sazonovilya03%40mail.ru-d14836?style=flat&logo=gmail&logoColor=white" /></a>
 
 🍂 Been coding for 7 years<br>
 📌 Based in Russia<br>
@@ -12,7 +13,7 @@
 🎓 Finishing my university degree this week<br>
 📧 Contact me at: <a href="mailto:sazonovilya03@mail.ru">sazonovilya03@mail.ru</a> or in <a href="https://t.me/MangoAvocadoSalad">telegram</a><br>
 
-<h2> 🥞 Stack </h2>
+<h3> My Stack </h3>
 
 <div>
   <img width="15px" src="images/smol.png" />
@@ -24,7 +25,7 @@
 </div>
 <img alt="Contributions Snake" width="100%" style="background: transparent;" src="https://github.com/JustKesha/JustKesha/blob/output/github-contribution-grid-snake.svg" />
 
-<h3> ☕ Stuff I've built </h3>
+<h3> Stuff I've Built </h3>
 
 - **Desktop applications** with modern HTML UI using Electron
 - **Browser extensions** using Chrome API for browsers like Opera, Chrome, etc.
@@ -38,10 +39,10 @@
 <h2> 📮 Let's Connect </h2>
 
 <a href="https://discord.gg/mh6ZwSSPcy">
-<img alt="Discord" height="30px" src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" /></a>
+<img alt="Discord" height="42px" src="https://img.shields.io/badge/-5865F2?style=flat&logo=discord&logoColor=white" /><img width="10px" src="images/smol.png" /></a>
 
 <a href="https://t.me/MangoAvocadoSalad">
-<img alt="Telegram" height="30px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" /></a>
+<img alt="Telegram" height="42px" src="https://img.shields.io/badge/-2CA5E0?style=flat&logo=telegram&logoColor=white" /><img width="10px" src="images/smol.png" /></a>
 
 <a href="mailto:sazonovilya03@mail.ru">
-<img alt="Email" height="30px" src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+<img alt="Email" height="42px" src="https://img.shields.io/badge/-D14836?style=flat&logo=gmail&logoColor=white" /><img width="10px" src="images/smol.png" /></a>
