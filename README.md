@@ -11,8 +11,8 @@
 🍂 Been coding for 7 years<br>
 📌 Based in Russia<br>
 🌍 English C1<br>
-🌱 Exploring advanced Python and it's ecosystem<br>
-🎓 Finishing my university degree this week<br>
+🎓 Getting my bachelor's diploma next week!<br>
+🌱 Exploring the market for new opportunities<br>
 📧 Contact me at: <a href="mailto:sazonovilya03@mail.ru">sazonovilya03@mail.ru</a> or in <a href="https://t.me/MangoAvocadoSalad">telegram</a><br>
 
 <h3> My Stack </h3>
