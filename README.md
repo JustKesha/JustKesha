@@ -1,10 +1,5 @@
 <h1> Hello, Name's Ilya ✌ </h1>
 
-<a href="https://discord.gg/mh6ZwSSPcy"><img alt="Discord" height="24px" src="https://img.shields.io/badge/kesha__2293-5865F2?style=flat&logo=discord&logoColor=white" /></a>
-<a href="https://t.me/MangoAvocadoSalad"><img alt="Telegram" height="24px" src="https://img.shields.io/badge/MangoAvocadoSalad-229ED9?style=flat&logo=telegram&logoColor=white" /></a>
-<a href="mailto:sazonovilya03@mail.ru"><img alt="Email" height="24px" src="https://img.shields.io/badge/sazonovilya03%40mail.ru-d14836?style=flat&logo=gmail&logoColor=white" /></a>
-<!--<a href="PROCHTI.md"><img alt="Перевести на Русский" height="24px" src="https://img.shields.io/badge/%D0%9F%D0%B5%D1%80%D0%B5%D0%B2%D0%B5%D1%81%D1%82%D0%B8-4285F4?style=flat&logo=googletranslate&logoColor=white" /></a>-->
-
 🍂 Been coding for 7 years<br>
 📌 Based in Russia<br>
 🌍 English C1<br>
