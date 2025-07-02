@@ -8,7 +8,7 @@
 🍂 Been coding for 7 years<br>
 📌 Based in Russia<br>
 🌍 English C1<br>
-🎓 Getting my bachelor's degree next week!<br>
+🎓 Getting my bachelor's degree this week!<br>
 📧 Contact me at: <a href="mailto:sazonovilya03@mail.ru">sazonovilya03@mail.ru</a> or in <a href="https://t.me/MangoAvocadoSalad">telegram</a><br>
 
 <h3> Stack </h3>
