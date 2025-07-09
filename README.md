@@ -1,4 +1,4 @@
-<h1> Hello, Name's Ilya ✌ </h1>
+<h1> Hello, name's Ilya ✌ </h1>
 
 🍂 Been coding for 7 years<br>
 📌 Based in Russia<br>
