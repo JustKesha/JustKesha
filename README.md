@@ -1,9 +1,11 @@
-<h1> Hello, name's Ilya ✌ </h1>
+<h1> Hello, </h1>
+
+<h3> Name's Ilya </h3>
 
 🍂 Been coding for 7 years<br>
 📌 Based in Russia<br>
 🌍 English C1<br>
-🎓 Getting my bachelor's degree this week!<br>
+🎓 Just got my bachelor's degree!<br>
 📧 Contact me at: <a href="mailto:sazonovilya03@mail.ru">sazonovilya03@mail.ru</a> or in <a href="https://t.me/MangoAvocadoSalad">telegram</a><br>
 
 <h3> Stack </h3>
