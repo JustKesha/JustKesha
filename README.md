@@ -1,17 +1,18 @@
-<h1> Hello ✌ Name's Ilya </h1>
+<h1> Hello 👋 Name's Ilya </h1>
 
 📌 Based in Russia<br>
-🎓 Just got my bachelor's degree<br>
-📧 Contact me at: <a href="mailto:sazonovilya03@mail.ru">sazonovilya03@mail.ru</a> or in <a href="https://t.me/MangoAvocadoSalad">telegram</a><br>
+🌎 English C2<br>
+🎓 Just recently got my bachelor's degree<br>
+📧 Contact me in <a href="https://t.me/MangoAvocadoSalad">telegram</a> or at <a href="mailto:sazonovilya03@mail.ru">sazonovilya03@mail.ru</a><br>
 
 <br>
 <div>
   <img width="15px" src="images/smol.png" />
   <img alt="Back" src="https://skillicons.dev/icons?i=python,nodejs,git" />
   <img width="15px" src="images/smol.png" />
-  <img alt="Front" src="https://skillicons.dev/icons?i=js,html,css,figma" />
+  <img alt="Front" src="https://skillicons.dev/icons?i=html,js,css" />
   <img width="15px" src="images/smol.png" />
-  <img alt="Game dev" src="https://skillicons.dev/icons?i=cs,lua,godot" />
+  <img alt="Game dev" src="https://skillicons.dev/icons?i=cs,lua" />
 </div>
 
 <img alt="Contributions Snake" width="100%" style="background: transparent;" src="https://github.com/JustKesha/JustKesha/blob/output/github-contribution-grid-snake.svg" />
