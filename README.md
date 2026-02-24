@@ -1,7 +1,7 @@
 <h1> Hello 👋 Name's Ilya </h1>
 
 📌 Based in Russia<br>
-🌎 English C1-С2<br>
+🌎 English C1<br>
 🎓 Just recently got my bachelor's degree<br>
 📧 Contact me in <a href="https://t.me/MangoAvocadoSalad">telegram</a> or at <a href="mailto:sazonovilya03@mail.ru">sazonovilya03@mail.ru</a><br>
 
