@@ -1,9 +1,9 @@
-<h1> Hello 👋 Name's Ilya </h1>
+<h1><img width="10px" src="images/smol.png" /> Hello 👋 Name's Ilya </h1>
 
-📌 Based in Russia<br>
-🌎 English C1<br>
-🎓 Just recently got my bachelor's degree<br>
-📧 Contact me in <a href="https://t.me/MangoAvocadoSalad">telegram</a> or at <a href="mailto:sazonovilya03@mail.ru">sazonovilya03@mail.ru</a><br>
+<img width="15px" src="images/smol.png" /> 📌 Based in Russia<br>
+<img width="15px" src="images/smol.png" /> 🌎 English C1<br>
+<img width="15px" src="images/smol.png" /> 🎓 Just recently got my bachelor's degree<br>
+<img width="15px" src="images/smol.png" /> 📧 Contact me on <a href="https://t.me/MangoAvocadoSalad">telegram</a> or at <a href="mailto:sazonovilya03@mail.ru">sazonovilya03@mail.ru</a><br>
 
 <br>
 <div>
